@@ -21,6 +21,11 @@
 
 [Live Project](https://priyanshusinghr.github.io/cash-register/)
 
+## Screenshots
+
+![cash](https://user-images.githubusercontent.com/52795506/205506899-01b1534d-94b1-44ce-9e4a-95f4c26ee6e5.jpg)
+
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
